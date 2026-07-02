@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Dung</h1>
+<h1 align="center">Hi 👋, I'm Nikita D</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Building+AI-Powered+Applications;Exploring+LLMs+and+RAG+Systems" />
