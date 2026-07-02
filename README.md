@@ -58,14 +58,23 @@
 
 ---
 
-## 📈 GitHub Overview
+## 📊 GitHub Metrics
 
-- 💻 Full Stack Development
-- 🤖 AI/ML Projects
-- 🚀 MERN Stack Applications
-- ☁️ Cloud & DevOps Learning
-- 📚 Open Source Contributions
-  
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaD27&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaD27&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaD27&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaD27&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaD27&theme=tokyonight&utcOffset=5.5" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
