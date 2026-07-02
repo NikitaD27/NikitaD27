@@ -48,23 +48,24 @@
 
 | Project | Description |
 |----------|------------|
-| 📄 Resume Screener | AI-powered ATS resume screening and analysis platform |
-| 🌐 Web Monitor | Website monitoring platform with automated alerts |
-| 🥔 Potato Blight Detection | Deep learning model for plant disease detection |
-| 🏢 Wow Realty Audit Platform | Real-estate digital maturity assessment platform |
-| 🎯 CETRAK Dealer Loyalty Platform | QR-based dealer rewards and loyalty ecosystem |
-| ✅ RBAC Todo System | Role-based task management with admin dashboard |
+| 🧠 Biomedical Waste Classification | Deep learning model for classifying biomedical waste into multiple categories using computer vision techniques. |
+| 📄 Resume Screener | AI-powered ATS resume screening and analysis platform. |
+| 🌐 Web Monitor | Website monitoring platform with automated alerts and tracking. |
+| 🥔 Potato Blight Detection | Deep learning model for plant disease detection using image classification. |
+| 🏢 Wow Realty Audit Platform | Digital maturity and portfolio assessment platform for real estate businesses. |
+| 🎯 CETRAK Dealer Loyalty Platform | QR-based dealer loyalty and rewards ecosystem for manufacturers and distributors. |
+| ✅ RBAC Todo Management System | Role-based task management platform with admin dashboard and user management. |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Overview
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NikitaD27&show_icons=true&theme=tokyonight&hide_border=true" />
+- 💻 Full Stack Development
+- 🤖 AI/ML Projects
+- 🚀 MERN Stack Applications
+- ☁️ Cloud & DevOps Learning
+- 📚 Open Source Contributions
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaD27&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -109,11 +110,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/nikitadung/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dungnikita27@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
