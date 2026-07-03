@@ -44,31 +44,31 @@ learning: System Design, Cloud & DevOps
 
 ## 🚀 Featured Projects
 
-**🎯 [CETRAK Dealer Loyalty Platform](#)**
+**🎯 CETRAK Dealer Loyalty Platform**
 QR-based dealer loyalty and rewards ecosystem for manufacturers and distributors.
 `React` `Node.js` `MongoDB`
 
-**🧠 [Biomedical Waste Classification](#)**
+**🧠 Biomedical Waste Classification**
 Deep learning model classifying biomedical waste into multiple categories using computer vision.
 `Python` `TensorFlow` `CNN`
 
-**📄 [Resume Screener](#)**
+**📄 Resume Screener**
 AI-powered ATS resume screening and analysis platform.
 `Python` `NLP` `React`
 
-**🥔 [Potato Blight Detection](#)**
+**🥔 Potato Blight Detection**
 Deep learning model for plant disease detection via image classification.
 `Python` `CNN` `Computer Vision`
 
-**🏢 [Wow Realty Audit Platform](#)**
+**🏢 Wow Realty Audit Platform**
 Digital maturity and portfolio assessment platform for real estate businesses.
 `MERN Stack`
 
-**✅ [RBAC Todo Management System](#)**
+**✅ RBAC Todo Management System**
 Role-based task management platform with admin dashboard and user management.
 `React` `Node.js` `Express` `MongoDB`
 
-> 💡 Replace the `#` links above with your actual repo/live URLs.
+> 💡 Once a repo is public, turn its title into a link: `**🎯 [Project Name](https://github.com/NikitaD27/repo-name)**`
 
 <br/>
 
