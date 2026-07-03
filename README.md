@@ -58,31 +58,19 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaD27&theme=catppuccin_mocha" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikitaD27&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaD27&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaD27&theme=catppuccin_mocha" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaD27&theme=catppuccin_mocha&utcOffset=5.5" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaD27&theme=catppuccin_mocha" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaD27&theme=catppuccin_mocha" />
+<img src="https://streak-stats.demolab.com?user=NikitaD27&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
