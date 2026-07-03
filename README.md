@@ -37,81 +37,50 @@ learning: System Design, Cloud & DevOps
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nodejs,express,mongodb,mysql,docker,kubernetes,aws,git,vscode,postman&theme=dark&perline=8" />
 </p>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**🎯 CETRAK Dealer Loyalty Platform**
+**🎯 [CETRAK Dealer Loyalty Platform](#)**
 QR-based dealer loyalty and rewards ecosystem for manufacturers and distributors.
+`React` `Node.js` `MongoDB`
 
-**🧠 Biomedical Waste Classification**
+**🧠 [Biomedical Waste Classification](#)**
 Deep learning model classifying biomedical waste into multiple categories using computer vision.
+`Python` `TensorFlow` `CNN`
 
-**📄 Resume Screener**
+**📄 [Resume Screener](#)**
 AI-powered ATS resume screening and analysis platform.
+`Python` `NLP` `React`
 
-</td>
-<td width="50%">
-
-**🥔 Potato Blight Detection**
+**🥔 [Potato Blight Detection](#)**
 Deep learning model for plant disease detection via image classification.
+`Python` `CNN` `Computer Vision`
 
-**🏢 Wow Realty Audit Platform**
+**🏢 [Wow Realty Audit Platform](#)**
 Digital maturity and portfolio assessment platform for real estate businesses.
+`MERN Stack`
 
-**✅ RBAC Todo Management System**
+**✅ [RBAC Todo Management System](#)**
 Role-based task management platform with admin dashboard and user management.
+`React` `Node.js` `Express` `MongoDB`
 
-</td>
-</tr>
-</table>
+> 💡 Replace the `#` links above with your actual repo/live URLs.
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NikitaD27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaD27&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NikitaD27&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaD27&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikitaD27&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/github/followers/NikitaD27?label=Followers&style=for-the-badge&color=6C63FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/NikitaD27?label=Total+Stars&style=for-the-badge&color=6C63FF&logo=github" />
 </p>
 
 <br/>
