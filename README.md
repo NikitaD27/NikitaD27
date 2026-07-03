@@ -60,22 +60,32 @@
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaD27&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaD27&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitaD27&theme=catppuccin_mocha" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaD27&theme=tokyonight" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaD27&theme=tokyonight" />
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaD27&theme=tokyonight&utcOffset=5.5" />
-</p>
----
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitaD27&theme=catppuccin_mocha" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitaD27&theme=catppuccin_mocha&utcOffset=5.5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitaD27&theme=catppuccin_mocha" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitaD27&theme=catppuccin_mocha" />
+
+</div>
+
 
 ## 🔥 GitHub Streak
 
