@@ -68,8 +68,6 @@ Digital maturity and portfolio assessment platform for real estate businesses.
 Role-based task management platform with admin dashboard and user management.
 `React` `Node.js` `Express` `MongoDB`
 
-> 💡 Once a repo is public, turn its title into a link: `**🎯 [Project Name](https://github.com/NikitaD27/repo-name)**`
-
 <br/>
 
 ## 📊 GitHub Activity
