@@ -30,7 +30,6 @@ role: Software Developer @ Adiion Digital Labs Pvt Ltd
 currently_building: CETRAK Dealer Loyalty Platform
 exploring: LLMs, RAG Systems, AI Agents & Automation
 learning: System Design, Cloud & DevOps
-goal: MS in Computer Science
 ```
 
 <br/>
